@@ -114,8 +114,12 @@ span{
 }
 
 .Options {
-    width: 70%;
+    width: 90%;
     font-size: 0.85rem;
     
+}
+
+.hero_section{
+    background-image: url();
 }
 
