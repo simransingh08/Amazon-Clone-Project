@@ -120,6 +120,24 @@ span{
 }
 
 .hero_section{
-    background-image: url();
+    background-image: url(Images/hero_image.jpg);
+    height: 380px;background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.hero_message{
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    width: 80%;
+    margin-bottom: 25px;
 }
 
+.hero_message a{
+    color: #007185;
+}
