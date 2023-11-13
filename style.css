@@ -99,10 +99,11 @@ span{
 }
 
 .panel{
-    background-color: rgb(5, 5, 48);
+    background-color: #222f3d;
     color: white;
     display: flex;
     height: 2rem;
-    padding: 10px;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
