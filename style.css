@@ -52,8 +52,9 @@
     height: 40px;
     border-radius: 4px;
 }
-
-
+.nav_search:hover{
+    border: 3px solid orange;
+}
 .select_option{
     background-color: rgb(220, 242, 245);
     border-top-left-radius: 4px;
@@ -88,5 +89,20 @@ span{
     font-size: 0.85rem;
     font-weight: 700;
 }
+.nav_cart i{
+    font-size: 31px;
+}
 
+.nav_cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+.panel{
+    background-color: rgb(5, 5, 48);
+    color: white;
+    display: flex;
+    height: 2rem;
+    padding: 10px;
+}
 
