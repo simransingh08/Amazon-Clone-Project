@@ -51,8 +51,9 @@
     width: 620px;
     height: 40px;
     border-radius: 4px;
-
 }
+
+
 .select_option{
     background-color: rgb(220, 242, 245);
     border-top-left-radius: 4px;
@@ -75,4 +76,17 @@
     font-size: 1.2rem;
     color: black;
 }
+
+span{
+    font-size: 0.7rem;
+}
+.nav_para{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+.nav_order{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
 
